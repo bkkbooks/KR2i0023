@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2i0023/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附陳朝紀年太宗乙酉建中元年凡七年天應政平元年壬辰凡十九年元豐元年辛亥凡七年聖宗紹隆元年戊午凡十五年寶符元年癸酉凡六年仁宗紹寶元年己卯凡六年重興元年乙酉凡八年英宗興隆元年癸巳凡二十一年明宗大慶元年甲寅凡十年開泰元年甲子凡五年憲宗開祐元年己巳凡十二年裕宗紹豐元年辛巳凡五年大治元年戊戌凡十一年天定元年己酉凡一年太王紹慶元年庚戌凡三年睿宗隆慶元年癸丑凡三年今王昌符元年丁巳陳朝紀年附
+  hash: sha256:fdb88896be4cdb1189fb35a5b0da8a98f612182c0a626fd7548cc665c4260f2e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2i0023_WYG_004-1a, image: WYG0466/WYG0466-0620c.png}
+metadata:
+  title: 越史略
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:38:02.974515'
+  juan_title: 附陳朝紀年
+  source:
+    repository: kanripo
+    path: KR2i0023/KR2i0023_004.txt
+hash: sha256:36b403b4b77045e77eb3c3dcee9c4dd6e14ecb4a31a627ba66df925520efe30b
